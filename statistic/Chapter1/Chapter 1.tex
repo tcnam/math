@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{amssymb}
+
+\title{XÁC XUẤT THỐNG KÊ}
+\author{Trần Công Nam}
+
+\begin{document}
+\maketitle
+
+\part{Sự kiện ngẫu nhiên và phép tính xác suất}
+
+\section{Sự kiện và các phép toán của sự kiện}
+\subsection{Phép thử ngẫu nhiên và sự kiện sơ cấp}
+- Định nghĩa: là hành động mà kết quả của nó ngẫu nhiên, nhưng ta xác định được tập hợp kết quả có thể.\\
+- Tập hợp kết quả của phép thử là \textbf{không gian mẫu}, kí hiệu: $\Omega$.\\
+- Mỗi phần tử trong tập hợp $\Omega$ là một \textbf{sự kiện sơ cấp}.\\
+- VD1: Tung 1 con xúc xắc và quan sát mặt xuất hiện.\\
++ Phép thử: tung 1 con xúc xắc.\\
++ không gian mẫu: $\Omega$ = \{$w_1$, $w_2$, $w_3$, $w_4$, $w_5$, $w_6$\}, trong đó $w_i$ là sự kiện sơ cấp "mặt i chấm xuất hiện" i = 1,6.\\
+- VD2: Xét phép thử kiểm tra tuổi thọ của một bóng đèn\\
++ Không gian mẫu: $\Omega=\{x: x\geq 0\}$\\
+
+\subsection{Sự kiện}
+- Định nghĩa: là tập hợp các sự kiện sơ cấp.\\
+- Kí hiệu: chữ cái in hoa \\
+- VD1: Giả sử A là một sự kiện của phép thử. Sự kiện sơ cấp w của phép thử được gọi là \textbf{thuận lợi cho A}. Kí hiệu: $x \in A$ nếu w xảy ra thì A xảy ra.\\
+- Nhận xét: Néu A là 1 sự kiện của phép thử thì\\
++ A là tập con của $\Omega$ \\
++ A = \{sự kiện sơ cấp\} \\
+- Có 2 sự kiện đặc biệt \\
++ Sự kiện không thể có: $\emptyset$ \\
++ Sự kiện chắc chắn: $\Omega$ \\
+
+\subsection{Quan hệ và phép toán cuả các sự kiện}
+\subsubsection {Quan hệ kéo theo}
+- Định nghĩa: Sự kiện A được gọi là kéo theo sự kiện B, nếu khi A xảy ra thì B xảy ra hay \textbf{A là con B}, kí hiệu: $A \subseteq B$ \\
+- VD1: Sinh viên mua một tờ vé số. \\
+    + A: "sv có vé số trúng giải đặc biệt" \\
+    + B: "sv có vé số trúng giải" \\
+    -> Ta nói $A \subseteq B$ \\
+\subsubsection {Quan hệ tương đương}
+- Định nghĩa: 2 sự kiện A và B được gọi là tương đương, khi tập hợp sự kiện sơ cấp của A và B là như nhau, kí hiệu: A = B\\
+
+\subsubsection[short]{Hợp}
+- Định nghĩa: Hợp của 2 sự kiện A và B là sự kiện xảy ra khi và chỉ khi có ít nhất một trong hai sự kiện A hoặc B xảy ra hay \textbf{tổng sự kiện sơ cấp của A và B}\\
+- Kí hiệu: $A \cup B$\\
+
+\subsubsection[short]{Tích}
+- Định nghĩa: Tích của 2 sự kiện A và B là sự kiện xảy khi và chỉ khi cả 2 sự kiện A và B đều xảy ra\\
+- Kí hiệu: A.B
+
+\subsubsection{Hiệu}
+- Định nghĩa: là sự kiện xảy ra khi và chỉ khi A xảy ra nhưng B không xảy ra.
+- Kí hiệu: $A \div B$
+
+
+\end{document}
