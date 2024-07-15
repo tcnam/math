@@ -1,6 +1,14 @@
 \documentclass{article}
 \usepackage[utf8]{vietnam}
 \usepackage{amssymb}
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
 
 \title{ĐẠI SỐ TUYẾN TÍNH}
 \author{Trần Công Nam}
@@ -8,7 +16,41 @@
 \begin{document}
 \maketitle
 
-\part[short]{LOGIC - TẬP HỢP - ÁNH XẠ - SỐ PHỨC}
-\section[short]{title}
+\part[short]{Logic, tập hợp, ánh xạ, số phức}
+
+\section[short]{Đại cương về logic}
+
+\subsection{Mệnh đề và các phép toán}
+\subsubsection {Định nghĩa}
+\begin{tabbing}
+- Định nghĩa: là một khẳng định chỉ có thể đúng hoặc sai\\
+- Kí hiệu: chữ cái in hoa A, B, \dots \\
+- \= Giá trị chân lý: \\
+\> + A đúng = 1 \\
+\> + A sai = 0  \\
+VD1: A = "3>1" = 1 \\
+VD2: B="Việt Nam thuộc châu Âu" = 0 \\
+\end{tabbing}
+
+\subsubsection {Các phép toán về mệnh đề}
+
+\paragraph{Phép phủ định}
+- Kí hiệu $\overline{A}$\\
+
+\paragraph{Phép hội}
+- Định nghĩa: hội của 2 mệnh đề A và B là "A và B"\\
+- Kí hiệu: $A \wedge B$\\ 
+
+
+
+
+\part{Ma trận, định thức, hệ phương trình}
+
+\part{Không gian vecto}
+
+\part{Ánh xạ tuyến tính}
+
+\part{Dạng toàn phương và không gian Euclid}
+
 
 \end{document}

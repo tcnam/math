@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1721050742.86239 "c:/Users/NCPC/Documents/repos/Math/statistic/statistic.tex" "statistic.pdf" "statistic" 1721050743.24259 0
-  "C:/Users/NCPC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1720951641 88371 b965f57369ed322039596060d18f4416 ""
+["pdflatex"] 1721052607.39385 "c:/Users/NCPC/Documents/repos/Math/statistic/statistic.tex" "statistic.pdf" "statistic" 1721052607.77655 0
+  "C:/Users/NCPC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1721052378 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/NCPC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1720782488 24264245 5c51664abde263c98e49ef4b2ec6c7b2 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -45,14 +45,15 @@
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1719393830 5048 7ebf0f2edf1ef6783e8fe2201a95d0e8 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1719393830 8448 358bf3de18513f057a13bdc6e6770c41 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/t5cmr.fd" 1368738347 1333 ab1c3d512aa3d88df568aed3641db58f ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/t5enc.def" 1368738347 21986 ccb3b8f7cc27fbd61b3daabbbb82ad3f ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/t5enc.dfu" 1368738347 13949 387dd4fa58aea5f873839c93430fffed ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
-  "c:/Users/NCPC/Documents/repos/Math/statistic/statistic.tex" 1721050742 3762 eeb217953d2c5990e16a87b0c71167bf ""
-  "statistic.aux" 1721050743 1594 c209dc50c6531ff492fed018a3b41286 "pdflatex"
-  "statistic.tex" 1721050742 3762 eeb217953d2c5990e16a87b0c71167bf ""
+  "c:/Users/NCPC/Documents/repos/Math/statistic/statistic.tex" 1721052606 3979 a1281858163cb18c5cef42b9b17c854a ""
+  "statistic.aux" 1721052607 1594 c209dc50c6531ff492fed018a3b41286 "pdflatex"
+  "statistic.tex" 1721052606 3979 a1281858163cb18c5cef42b9b17c854a ""
   (generated)
   "statistic.aux"
   "statistic.log"
