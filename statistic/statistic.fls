@@ -1,7 +1,7 @@
-PWD c:\Users\NCPC\Documents\repos\Math\statistic\Chapter1
+PWD c:\Users\NCPC\Documents\repos\Math\statistic
 INPUT C:\Users\NCPC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\NCPC\Documents\repos\Math\statistic\Chapter1\Chapter 1.tex
-OUTPUT Chapter 1.log
+INPUT c:\Users\NCPC\Documents\repos\Math\statistic\statistic.tex
+OUTPUT statistic.log
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -34,10 +34,10 @@ INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.st
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Chapter 1.aux
-INPUT .\Chapter 1.aux
-INPUT Chapter 1.aux
-OUTPUT Chapter 1.aux
+INPUT .\statistic.aux
+INPUT .\statistic.aux
+INPUT statistic.aux
+OUTPUT statistic.aux
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
@@ -77,9 +77,9 @@ INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symb
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT Chapter 1.pdf
+OUTPUT statistic.pdf
 INPUT C:\Users\NCPC\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT Chapter 1.aux
+INPUT statistic.aux
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\NCPC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
