@@ -1,14 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1721450834.96615 "c:/Users/RNT9HC/Documents/repos/math/linearAlgebra/linearAlgebra.tex" "linearAlgebra.pdf" "linearAlgebra" 1721450835.89092 0
+["pdflatex"] 1722238059.69186 "c:/Users/RNT9HC/Documents/repos/math/books/brain/main.tex" "main.pdf" "main" 1722238060.36791 0
   "C:/Users/RNT9HC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1721450833 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/RNT9HC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1721450763 24265189 fd08c7225fdf615d958dcac1a6af753c ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
-  "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
-  "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -25,8 +23,6 @@
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/vntex/vnr/vnr10.tfm" 1644004041 3980 a378198bbdb2c6fcd4b722396a62ad27 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/vntex/vnr/vnr12.tfm" 1644004041 3984 be7b630197255361b12d153ce5e1bc5b ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/tfm/vntex/vnr/vnr17.tfm" 1644004041 3992 d482fc893730ca253996c4cee0a15c44 ""
-  "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb" 1644004041 41966 b33b53956e4b1695c9b15bb5cfd97842 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb" 1644004041 41089 cd085a6112214f1ec9535fe0d1ee127f ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb" 1644004041 41608 f55c1a79be39d4e7ed224ba660d7353d ""
@@ -48,11 +44,11 @@
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/t5enc.dfu" 1368738347 13949 387dd4fa58aea5f873839c93430fffed ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
-  "c:/Users/RNT9HC/Documents/repos/math/linearAlgebra/linearAlgebra.tex" 1721192617 1345 10e310c701ea615f331f64c0608320fc ""
-  "linearAlgebra.aux" 1721450835 1282 78db286bd918555ef15c4fa8ce6b036e "pdflatex"
-  "linearAlgebra.tex" 1721192617 1345 10e310c701ea615f331f64c0608320fc ""
+  "c:/Users/RNT9HC/Documents/repos/math/books/brain/main.tex" 1722238058 6897 64c5333ec4d7681bcb089c7536f017e4 ""
+  "main.aux" 1722238060 710 cca92ed2929140849e3a52868844cb4c "pdflatex"
+  "main.tex" 1722238058 6897 64c5333ec4d7681bcb089c7536f017e4 ""
   (generated)
-  "linearAlgebra.aux"
-  "linearAlgebra.log"
-  "linearAlgebra.pdf"
+  "main.aux"
+  "main.log"
+  "main.pdf"
   (rewritten before read)
