@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1723992487.43152 "c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex" "the_brain_the_story_of_you.pdf" "the_brain_the_story_of_you" 1723992488.34119 0
+["pdflatex"] 1724076295.1094 "c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex" "the_brain_the_story_of_you.pdf" "the_brain_the_story_of_you" 1724076297.15367 0
   "C:/Users/NCPC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722342547 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/NCPC/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1720782488 24264245 5c51664abde263c98e49ef4b2ec6c7b2 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -57,12 +57,16 @@
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/t5enc.dfu" 1368738347 13949 387dd4fa58aea5f873839c93430fffed ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/NCPC/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
-  "c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex" 1723992487 18322 c1cf949b3feb3cae998a0bcf986b72e7 ""
+  "c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex" 1724076294 20117 f2922933877f1872466432f8e00d10b6 ""
   "images/2024-07-30_13h08_25.png" 1722342407 425709 dd2c3e99ef491e06a6fbbd312cd7e56f ""
   "images/Screenshot 2024-07-30 194516.png" 1722343532 830282 f5c756989b9cbc98f95f30f8d967c661 ""
   "images/Screenshot 2024-07-30 195407.png" 1722344050 407166 64586d9e23e832a73dbc3d10ee34f44e ""
-  "the_brain_the_story_of_you.aux" 1723992488 710 abe0a4b60cd1d15cd0c024b79e5e371d "pdflatex"
-  "the_brain_the_story_of_you.tex" 1723992487 18322 c1cf949b3feb3cae998a0bcf986b72e7 ""
+  "images/logic.png" 1724075786 838604 aa16f6635fd0f1957ef6b58605d39f41 ""
+  "images/logicemotion.png" 1724075823 939400 aab3f5a863539f4b11958be3a9280c11 ""
+  "images/songdexedienver1.png" 1724075398 448275 ca52441af41385f1702030962270c141 ""
+  "images/songdexedienver2.png" 1724075542 532236 655d5d2a629b0e0a69cf8b692680bc03 ""
+  "the_brain_the_story_of_you.aux" 1724076297 713 fc0af6fbbf8ce74ec60c8760d72a10e4 "pdflatex"
+  "the_brain_the_story_of_you.tex" 1724076294 20117 f2922933877f1872466432f8e00d10b6 ""
   (generated)
   "the_brain_the_story_of_you.aux"
   "the_brain_the_story_of_you.log"

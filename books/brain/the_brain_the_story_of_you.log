@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.12)  18 AUG 2024 21:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.12)  19 AUG 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,25 +350,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--131
 [6 <./images/Screenshot 2024-07-30 195407.png>]
 
 [7]
+<images/songdexedienver1.png, id=36, 882.29625pt x 831.70724pt>
+File: images/songdexedienver1.png Graphic file (type png)
+<use images/songdexedienver1.png>
+Package pdftex.def Info: images/songdexedienver1.png  used on input line 142.
+(pdftex.def)             Requested size: 345.0pt x 325.2148pt.
+<images/songdexedienver2.png, id=37, 882.8985pt x 597.432pt>
+File: images/songdexedienver2.png Graphic file (type png)
+<use images/songdexedienver2.png>
+Package pdftex.def Info: images/songdexedienver2.png  used on input line 144.
+(pdftex.def)             Requested size: 345.0pt x 233.45334pt.
+<images/logic.png, id=38, 846.7635pt x 682.34924pt>
+File: images/logic.png Graphic file (type png)
+<use images/logic.png>
+Package pdftex.def Info: images/logic.png  used on input line 147.
+(pdftex.def)             Requested size: 345.0pt x 278.01582pt.
+<images/logicemotion.png, id=39, 849.1725pt x 730.52925pt>
+File: images/logicemotion.png Graphic file (type png)
+<use images/logicemotion.png>
+Package pdftex.def Info: images/logicemotion.png  used on input line 148.
+(pdftex.def)             Requested size: 345.0pt x 296.79907pt.
 
-[8] (the_brain_the_story_of_you.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 133--150
+
+ []
+
+
+
+[8]
+
+[9 <./images/songdexedienver1.png>]
+
+[10 <./images/songdexedienver2.png>]
+
+[11 <./images/logic.png>]
+
+[12 <./images/logicemotion.png>] (the_brain_the_story_of_you.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3369 strings out of 473904
- 53373 string characters out of 5727072
+ 3397 strings out of 473904
+ 54216 string characters out of 5727072
  1942908 words of memory out of 5000000
- 26209 multiletter control sequences out of 15000+600000
+ 26237 multiletter control sequences out of 15000+600000
  568565 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,6n,93p,1533b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on the_brain_the_story_of_you.pdf (8 pages, 1766769 bytes).
+Output written on the_brain_the_story_of_you.pdf (12 pages, 4439456 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
