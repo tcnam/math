@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.20)  20 AUG 2024 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.12)  20 AUG 2024 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/RNT9HC/Documents/repos/math/books/brain/the_brain_the_story_of_you.tex
-(c:/Users/RNT9HC/Documents/repos/math/books/brain/the_brain_the_story_of_you.tex
+**c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex
+(c:/Users/NCPC/Documents/repos/Math/books/brain/the_brain_the_story_of_you.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
-(C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
@@ -23,17 +23,17 @@ File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vietnam.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vietnam.sty
 Package: vietnam 2009/07/12 v1.3 support for Vietnamese
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.def
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.def
 File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
 Now handling font encoding T5 ...
 ... processing UTF-8 mapping file for font encoding T5
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.dfu
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.dfu
 File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -188,35 +188,35 @@ File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
    defining Unicode char U+2423 (decimal 9251)
 ))
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 116.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vncaps.tex
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
-)) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks20
 \symAMSa=\mathgroup4
@@ -224,7 +224,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+)) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip51
@@ -235,9 +235,9 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen146
 \titlewidthlast=\dimen147
 \titlewidthfirst=\dimen148
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-05-27 L3 programming layer (loader) 
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box53
@@ -248,7 +248,7 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count269
 \l__lipsum_a_int=\count270
 \l__lipsum_b_int=\count271
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (the_brain_the_story_of_you.aux)
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (the_brain_the_story_of_you.aux)
 \openout1 = `the_brain_the_story_of_you.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -267,7 +267,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
 \scratchdimen=\dimen149
@@ -280,18 +280,18 @@ LaTeX Font Info:    ... okay on input line 13.
 \MPnumerator=\count276
 \makeMPintoPDFobject=\count277
 \everyMPtoPDFconversion=\toks23
-) (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
- (C:\Users\RNT9HC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (C:\Users\NCPC\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
@@ -311,7 +311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--40
 
 [1
 
-{C:/Users/RNT9HC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/NCPC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 <images/2024-07-30_13h08_25.png, id=9, 687.31781pt x 617.30624pt>
 File: images/2024-07-30_13h08_25.png Graphic file (type png)
 <use images/2024-07-30_13h08_25.png>
@@ -353,23 +353,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--131
 <images/songdexedienver1.png, id=36, 882.29625pt x 831.70724pt>
 File: images/songdexedienver1.png Graphic file (type png)
 <use images/songdexedienver1.png>
-Package pdftex.def Info: images/songdexedienver1.png  used on input line 142.
+Package pdftex.def Info: images/songdexedienver1.png  used on input line 144.
 (pdftex.def)             Requested size: 345.0pt x 325.2148pt.
 <images/songdexedienver2.png, id=37, 882.8985pt x 597.432pt>
 File: images/songdexedienver2.png Graphic file (type png)
 <use images/songdexedienver2.png>
-Package pdftex.def Info: images/songdexedienver2.png  used on input line 144.
+Package pdftex.def Info: images/songdexedienver2.png  used on input line 146.
 (pdftex.def)             Requested size: 345.0pt x 233.45334pt.
 <images/logic.png, id=38, 846.7635pt x 682.34924pt>
 File: images/logic.png Graphic file (type png)
 <use images/logic.png>
-Package pdftex.def Info: images/logic.png  used on input line 147.
+Package pdftex.def Info: images/logic.png  used on input line 149.
 (pdftex.def)             Requested size: 345.0pt x 278.01582pt.
 <images/logicemotion.png, id=39, 849.1725pt x 730.52925pt>
 File: images/logicemotion.png Graphic file (type png)
 <use images/logicemotion.png>
-Package pdftex.def Info: images/logicemotion.png  used on input line 148.
+Package pdftex.def Info: images/logicemotion.png  used on input line 150.
 (pdftex.def)             Requested size: 345.0pt x 296.79907pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--171
+
+ []
+
 
 
 [8]
@@ -380,7 +385,9 @@ Package pdftex.def Info: images/logicemotion.png  used on input line 148.
 
 [11 <./images/logic.png>]
 
-[12 <./images/logicemotion.png>] (the_brain_the_story_of_you.aux)
+[12 <./images/logicemotion.png>]
+
+[13] (the_brain_the_story_of_you.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -388,16 +395,16 @@ L3 programming layer <2024-05-27>
  ) 
 Here is how much of TeX's memory you used:
  3397 strings out of 473904
- 54370 string characters out of 5726128
+ 54216 string characters out of 5727072
  1942908 words of memory out of 5000000
  26237 multiletter control sequences out of 15000+600000
  568565 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,6n,93p,1535b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on the_brain_the_story_of_you.pdf (12 pages, 4439267 bytes).
+ 79i,6n,93p,1533b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NCPC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
+Output written on the_brain_the_story_of_you.pdf (13 pages, 4441505 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
