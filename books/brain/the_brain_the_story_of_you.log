@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.20)  20 AUG 2024 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.20)  12 SEP 2024 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -379,8 +379,15 @@ Package pdftex.def Info: images/logicemotion.png  used on input line 148.
 [10 <./images/songdexedienver2.png>]
 
 [11 <./images/logic.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 152--178
 
-[12 <./images/logicemotion.png>] (the_brain_the_story_of_you.aux)
+ []
+
+
+
+[12 <./images/logicemotion.png>]
+
+[13] (the_brain_the_story_of_you.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -395,9 +402,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,6n,93p,1535b,222s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/RNT9HC/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on the_brain_the_story_of_you.pdf (12 pages, 4439267 bytes).
+Output written on the_brain_the_story_of_you.pdf (13 pages, 4443747 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
